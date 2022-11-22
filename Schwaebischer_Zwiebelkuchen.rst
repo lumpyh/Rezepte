@@ -1,27 +1,37 @@
+===========================
+Schwäbischer Zwiebelkuchen:
+===========================
+
 Zutaten:
+========
 
 Für den Teig:
-250g Mehl
-50g Butter
-1/2 Würfel Hefe
-1TL gestr. Salz
-1TL gestr. Zucker
-150ml Milch, lauwarm
+-------------
+
+* 250g Mehl
+* 50g Butter
+* 1/2 Würfel Hefe
+* 1TL gestr. Salz
+* 1TL gestr. Zucker
+* 150ml Milch, lauwarm
 
 Für den Belag:
-500g Zwiebeln
-50g Butter
-1EL Mehl
-2 Eier
-100ml süße Sahne
-Salz
-Kümmel
-75g Schinkenspeck, geräuchert, gewürfelt
-Butterflöckchen
+--------------
+* 500g Zwiebeln
+* 50g Butter
+* 1EL Mehl
+* 2 Eier
+* 100ml süße Sahne
+* Salz
+* Kümmel
+* 75g Schinkenspeck, geräuchert, gewürfelt
+* Butterflöckchen
 
 Zubereitung:
+============
 
 Für den Hefeteig:
+-----------------
 Einen Vorteig erstellen. Dafür die Hefe in einer kleinen Schüssel zerbröseln und in einem Teil der angewärmten Milch auflösen.
 Dann den Zucker und etwas Mehl hinzufügen und glatt rühren.
 Der Vorteig sollte eine zähflüssige Konsistenz haben.
@@ -37,6 +47,7 @@ Wenn er gegangen ist, eine vorbereitete Kuchenform mit dem Teig auslegen.
 Wie hoch man den Rand macht, ist abhängig vom Duchmesser der Form.
 
 Für den Belag:
+--------------
 Die fein gewürfelten Zwiebeln in der Butter unter dauerndem Rühren glasig dünsten.
 Das kann gut Zehn Minuten dauern.
 Die Zwiebeln dürfen jedoch nicht braun werden.

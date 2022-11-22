@@ -1,12 +1,20 @@
-Nudelauflauf
+=============
+Nudelauflauf:
+=============
 
-500g  Nudeln
-1Dose Champignons
-6-7   Eier
-1-2El Semmelmehl
-Butter/Margarine 
-Salz
-Pfeffer
+Zutaten:
+========
+
+* 500g  Nudeln
+* 1Dose Champignons
+* 6-7   Eier
+* 1-2El Semmelmehl
+* Butter/Margarine 
+* Salz
+* Pfeffer
+
+Zubereitung:
+============
 
 500g Nudeln in Salzwasser kochen, abgießen
 

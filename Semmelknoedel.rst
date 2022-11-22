@@ -1,13 +1,23 @@
+=============
+Semmel Knödel
+=============
+
+Zutaten:
+========
+
 Für 6 Semmelknödel
+------------------
 
-400g Semmelwürfel
-4 Eier
-300ml Milch (etwas erwärmen)
-Salz
-
-
-evtl. gedünstete Zwiebeln u./o. Speck("Tiroler Knödel")
+* 400g Semmelwürfel
+* 4 Eier
+* 300ml Milch (etwas erwärmen)
+* Salz
+ 
+* evtl. gedünstete Zwiebeln u./o. Speck("Tiroler Knödel")
       Petersilie
+
+Zubereitung:
+============
 
 Die Zutaten in einer SChüssel mischen und zugedeckt mindestens 1 Stunde durchziehen lassen.
 
