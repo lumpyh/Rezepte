@@ -12,6 +12,8 @@ Zutaten:
 * Butter/Margarine 
 * Salz
 * Pfeffer
+* 150 ml Milch
+* Geriebender Käse
 
 Zubereitung:
 ============
